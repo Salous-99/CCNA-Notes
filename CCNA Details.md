@@ -1,0 +1,5 @@
+First off, CCNA stands for *Cisco Certified Network Associate*. I will be using the following [course playlist](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ) on YouTube, this course is based on the previous iteration of the CCNA which was released in February of 2020, and became deprecated in 2024 as version 1.1 of the CCNA 200-301 exam was released. The changes made between the two iterations are minor; the v1.1 exam updates are reflective of the increasing focus on cloud, automation, and AI in networking. As per [the syllabus](obsidian://open?vault=CCNA&file=Attachments%2F200-301-CCNA-v1.1.pdf), these changes pertain to domain 6. Further reading might be required when I get to it.
+
+Also, the course used does not seem to have an identical structure to the syllabus, as such, the split between the six folders does not reflect the course content 1-to-1. Be aware of that. That said, it is clear that the course itself goes over all the material.
+
+Also important to note that I will not be making comprehensive notes on everything as there is a large amount of information that is already known to me.
