@@ -185,6 +185,10 @@
   },
   "active": "27cfe3800c0885af",
   "lastOpenFiles": [
+    "Anki Decks/Day 36 Flashcards - CDP & LLDP.apkg",
+    "Packet Tracer Files/Day 36 Lab - CDP & LLDP.pkt",
+    "Day 36 Lab - CDP & LLDP.pkt",
+    "Day 36 Flashcards - CDP & LLDP.apkg",
     "Notes/Layer 2/DTP and VTP.md",
     "Notes/Layer 2/Discovery Protocol (CDP & LLDP).md",
     "Notes/Layer 3/IPv6.md",
@@ -197,15 +201,12 @@
     "Packet Tracer Files/Day 34 Lab - Standard ACLs.pkt",
     "Anki Decks/Day 34 Flashcards - Standard ACLs.apkg",
     "Day 34 Lab - Standard ACLs.pkt",
-    "Day 34 Flashcards - Standard ACLs.apkg",
     "Notes/Layer 2/VLANs.md",
     "Notes/Layer 1/Physical Cables and Interfaces.md",
     "README.md",
     "Notes/Introduction/Network Devices.md",
     "Notes/Introduction/Intro to the Command Line Interface.md",
     "Images/Pasted image 20250816111913.png",
-    "Notes/Security",
-    "Packet Tracer Files/Day 33 Lab - IPv6 Static Routes.pkt",
     "Images/Pasted image 20250812141023.png",
     "Images/Pasted image 20250812132520.png",
     "Images/Pasted image 20250812115953.png",
@@ -229,7 +230,6 @@
     "Notes/Layer 2/Rapid Spanning Tree.md",
     "Notes/Introduction/OSI Model and TCP-IP Suite.md",
     "Notes/Layer 2/Spanning Tree Protocol.md",
-    "Notes/Layer 2/Switch Interfaces.md",
-    "Notes/Layer 2/Ethernet LAN Switching.md"
+    "Notes/Layer 2/Switch Interfaces.md"
   ]
 }
