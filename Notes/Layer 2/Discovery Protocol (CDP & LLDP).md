@@ -75,7 +75,7 @@ This allows LLDP to send and receive messages. To configure the timers:
 	**lldp holdtime <seconds\>**
 	**lldp reinit <seconds\>**
 ### Show commands
-The commands are very similar to their CDP counterparts: 
+The commands are very similar to their CDP counterparts:
 	**show lldp**
 	**show lldp traffic**
 	**show lldp interface**
