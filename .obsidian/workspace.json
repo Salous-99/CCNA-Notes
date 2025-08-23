@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1745df16d763dbca",
+        "id": "89020a027c9adeca",
         "type": "tabs",
         "children": [
           {
-            "id": "eff94ea1eba41f33",
+            "id": "d6e15da060912337",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Layer 5/Domain Name System.md",
+                "file": "Notes/Layer 5/Simple Network Messaging Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain Name System"
+              "title": "Simple Network Messaging Protocol"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Identifer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,24 +169,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eff94ea1eba41f33",
+  "active": "d6e15da060912337",
   "lastOpenFiles": [
+    "Packet Tracer Files/Day 40 Lab - SNMP.pkt",
+    "Anki Decks/Day 40 Flashcards - SNMP.apkg",
+    "Day 40 Lab - SNMP.pkt",
+    "Day 40 Flashcards - SNMP.apkg",
+    "Images/Pasted image 20250823145120.png",
+    "Notes/Layer 5/Network Time Protocol.md",
+    "Notes/Layer 5/Untitled.base",
     "Notes/Layer 5/Simple Network Messaging Protocol.md",
-    "Images/Pasted image 20250823141832.png",
+    "Images/Pasted image 20250823143330.png",
     "Notes/Layer 5/Dynamic Host Configuration Protocol.md",
+    "Notes/Layer 5/Domain Name System.md",
+    "Notes/Layer 3/Routing Fundamentals.md",
+    "Images/Pasted image 20250823141832.png",
     "Anki Decks/Day 39 Flashcards - DHCP.apkg",
     "Packet Tracer Files/Day 39 Lab - DHCP.pkt",
     "Day 39 Lab - DHCP.pkt",
     "Day 39 Flashcards - DHCP.apkg",
-    "Notes/Layer 5/Domain Name System.md",
-    "Notes/Layer 5/Network Time Protocol.md",
     "Packet Tracer Files/Day 38 Lab - DNS.pkt",
     "Anki Decks/Day 38 Flashcards - DNS.apkg",
-    "Day 38 Lab - DNS.pkt",
-    "Day 38 Flashcards - DNS.apkg",
     "Notes/Layer 3/IPv4 Addressing.md",
-    "Packet Tracer Files/Day 37 Lab - NTP.pkt",
-    "Anki Decks/Day 37 Flashcards - NTP.apkg",
     "Notes/Layer 2/Discovery Protocol (CDP & LLDP).md",
     "Notes/Layer 2/DTP and VTP.md",
     "Notes/Layer 3/IPv6.md",
@@ -207,11 +211,8 @@
     "Images/Pasted image 20250804150225.png",
     "Notes/Layer 3/First Hop Redundancy Protocols.md",
     "Images/Pasted image 20250804121338.png",
-    "Images/Pasted image 20250804121334.png",
-    "Images/Pasted image 20250804121305.png",
     "Notes/Layer 3/RIP and EIGRP.md",
     "Notes/Layer 3/Subnetting.md",
-    "Notes/Layer 3/Routing Fundamentals.md",
     "Notes/Layer 3/IPv4 Header.md",
     "Notes/Layer 2/EtherChannel.md",
     "Notes/Untitled.md",
