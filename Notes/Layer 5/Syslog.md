@@ -28,9 +28,11 @@ The severity levels are:
 
 Syslog will log messages in these locations depending on the configurations of the device:
 - Console lines: Syslog messages will be displayed in the CLI if the console port is connected and someone is using the CLI. Messages of all severity levels (0-7) will be displayed.
-- VTY lines: Syslog messages will also be displayed in a remote terminal opened using SSH or Telnet. This is disabled by default however
+- VTY (Virtual Terminal Lines): Syslog messages will also be displayed in a remote terminal opened using SSH or Telnet. This is disabled by default however
 - Buffer: Syslog messages will be saved to RAM. You can view the entire backlog by using the command: **show logging**
 - External server: Syslog can be configured to send messages to an external server that logs and consolidates information from many devices. This Syslog server will listen for incoming traffic on UDP/514.
+
+**\*Trivia:** VTY stands for **V**irtual T**TY**. TTY stands for "teletype". A teletype is an old-time keyboard. Also looks like a big goofy typewriter. A teletype was used to transmit characters to the terminal of Cisco devices over the console port, a virtual TTY is used to connect remotely/virtually to Cisco devices' terminals.  
 ## Syslog and SNMP
 They both do similar things; they are used for live motioning of the network's status. They are complementary but their functionalities differ;
 	**Syslog** is used for message logging:
