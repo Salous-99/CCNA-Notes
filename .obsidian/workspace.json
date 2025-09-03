@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "89020a027c9adeca",
+        "id": "53e2257fd141fce8",
         "type": "tabs",
         "children": [
           {
-            "id": "a6aa2fb12b4e498c",
+            "id": "c2caf89c48767b56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Layer 3/Network Address Translation.md",
+                "file": "Notes/Layer 3/Quality of Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Address Translation"
+              "title": "Quality of Service"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Identifer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,24 +169,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6aa2fb12b4e498c",
+  "active": "c2caf89c48767b56",
   "lastOpenFiles": [
+    "Anki Decks/Day 47 Flashcards - QoS (Part 2).apkg",
+    "Packet Tracer Files/Day 47 Lab - QoS.pkt",
+    "Notes/Layer 3/IPv4 Header.md",
+    "Notes/Layer 2/VLANs.md",
+    "Notes/Layer 3/Quality of Service.md",
+    "Notes/Layer 3/OSPF.md",
+    "Anki Decks/Day 46 Flashcards - QoS (Part 1).apkg",
+    "Packet Tracer Files/Day 46 Lab - Voice VLANs.pkt",
+    "Images/Pasted image 20250903133503.png",
+    "Images/Pasted image 20250903130258.png",
+    "Notes/Layer 3/Network Address Translation.md",
+    "Images/Pasted image 20250903111146.png",
+    "Images/Pasted image 20250903110908.png",
+    "Images/Pasted image 20250903110823.png",
+    "Images/Pasted image 20250903110433.png",
     "Anki Decks/Day 45 Flashcards - NAT (Part 2).apkg",
     "Packet Tracer Files/Day 45 Lab - Dynamic NAT.pkt",
     "Images/Pasted image 20250901154704.png",
     "Notes/Layer 5/File Transfer Protocol.md",
     "Notes/Security/Access Control Lists.md",
-    "Notes/Layer 3/Network Address Translation.md",
     "Packet Tracer Files/Day 44 Lab - Static NAT.pkt",
     "Anki Decks/Day 44 Flashcards - NAT (Part 1).apkg",
     "Day 44 Lab - Static NAT.pkt",
     "Day 44 Flashcards - NAT (Part 1).apkg",
     "Packet Tracer Files/Day 43 Lab - FTP & TFTP.pkt",
-    "Anki Decks/Day 43 Flashcards - FTP & TFTP.apkg",
-    "Day 43 Lab - FTP & TFTP.pkt",
-    "Day 43 Flashcards - FTP & TFTP.apkg",
     "Notes/Layer 5/Remote Configuration.md",
-    "Anki Decks/Day 42 Flashcards - SSH.apkg",
     "Images/Pasted image 20250824181140.png",
     "Notes/Layer 5/Simple Network Messaging Protocol.md",
     "Notes/Layer 5/Syslog.md",
@@ -196,26 +206,16 @@
     "Notes/Layer 5/Dynamic Host Configuration Protocol.md",
     "Notes/Layer 5/Domain Name System.md",
     "Notes/Layer 3/Routing Fundamentals.md",
-    "Images/Pasted image 20250823141832.png",
     "Notes/Layer 3/IPv4 Addressing.md",
     "Notes/Layer 2/Discovery Protocol (CDP & LLDP).md",
     "Notes/Layer 2/DTP and VTP.md",
     "Notes/Layer 3/IPv6.md",
-    "Notes/Layer 3/OSPF.md",
-    "Notes/Layer 2/VLANs.md",
     "Notes/Layer 1/Physical Cables and Interfaces.md",
     "README.md",
     "Notes/Introduction/Network Devices.md",
     "Notes/Introduction/Intro to the Command Line Interface.md",
-    "Images/Pasted image 20250816111913.png",
-    "Images/Pasted image 20250812141023.png",
-    "Images/Pasted image 20250812132520.png",
-    "Images/Pasted image 20250812115953.png",
     "Notes/Layer 3/Dynamic Routing.md",
     "Notes/Layer 4/TCP and UDP.md",
-    "Images/Pasted image 20250804151944.png",
-    "Notes/Layer 3/First Hop Redundancy Protocols.md",
-    "Notes/Layer 3/RIP and EIGRP.md",
-    "Notes/Layer 3/Subnetting.md"
+    "Notes/Layer 3/First Hop Redundancy Protocols.md"
   ]
 }
