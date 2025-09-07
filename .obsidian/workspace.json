@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "53e2257fd141fce8",
+        "id": "26d52afc241d383f",
         "type": "tabs",
         "children": [
           {
-            "id": "c2caf89c48767b56",
+            "id": "8f0b0f9bef431179",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Layer 3/Quality of Service.md",
+                "file": "Notes/Layer 2/DHCP Snooping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quality of Service"
+              "title": "DHCP Snooping"
+            }
+          },
+          {
+            "id": "7fd1d02183d74571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Layer 2/Dynamic ARP Inspection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic ARP Inspection"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Exhasution",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,16 +184,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2caf89c48767b56",
+  "active": "7fd1d02183d74571",
   "lastOpenFiles": [
-    "Anki Decks/Day 47 Flashcards - QoS (Part 2).apkg",
-    "Packet Tracer Files/Day 47 Lab - QoS.pkt",
+    "Notes/Layer 2/DHCP Snooping.md",
+    "Notes/Layer 2/Dynamic ARP Inspection.md",
+    "Notes/Layer 5/Dynamic Host Configuration Protocol.md",
+    "Notes/Security/Access Control Lists.md",
+    "Notes/Security/Port Security.md",
+    "Packet Tracer Files/Day 50 Lab - DHCP Snooping.pkt",
+    "Anki Decks/Day 50 Flashcards - DHCP Snooping.apkg",
+    "Day 50 Lab - DHCP Snooping.pkt",
+    "Day 50 Flashcards - DHCP Snooping.apkg",
+    "Images/Pasted image 20250906163127.png",
+    "Packet Tracer Files/Day 49 Lab - Port Security.pkt",
+    "Anki Decks/Day 49 Flashcards - Port Security.apkg",
+    "Day 49 Lab - Port Security.pkt",
+    "Day 49 Flashcards - Port Security.apkg",
+    "Images/Pasted image 20250905152553.png",
+    "Notes/Security/Untitled.base",
+    "Notes/Security/Security Fundamentals.md",
+    "Anki Decks/Day 48 Flashcards - Security Fundamentals.apkg",
+    "Notes/Layer 3/Quality of Service.md",
     "Notes/Layer 3/IPv4 Header.md",
     "Notes/Layer 2/VLANs.md",
-    "Notes/Layer 3/Quality of Service.md",
     "Notes/Layer 3/OSPF.md",
-    "Anki Decks/Day 46 Flashcards - QoS (Part 1).apkg",
-    "Packet Tracer Files/Day 46 Lab - Voice VLANs.pkt",
     "Images/Pasted image 20250903133503.png",
     "Images/Pasted image 20250903130258.png",
     "Notes/Layer 3/Network Address Translation.md",
@@ -186,24 +215,13 @@
     "Images/Pasted image 20250903110908.png",
     "Images/Pasted image 20250903110823.png",
     "Images/Pasted image 20250903110433.png",
-    "Anki Decks/Day 45 Flashcards - NAT (Part 2).apkg",
-    "Packet Tracer Files/Day 45 Lab - Dynamic NAT.pkt",
     "Images/Pasted image 20250901154704.png",
     "Notes/Layer 5/File Transfer Protocol.md",
-    "Notes/Security/Access Control Lists.md",
-    "Packet Tracer Files/Day 44 Lab - Static NAT.pkt",
-    "Anki Decks/Day 44 Flashcards - NAT (Part 1).apkg",
-    "Day 44 Lab - Static NAT.pkt",
-    "Day 44 Flashcards - NAT (Part 1).apkg",
-    "Packet Tracer Files/Day 43 Lab - FTP & TFTP.pkt",
     "Notes/Layer 5/Remote Configuration.md",
     "Images/Pasted image 20250824181140.png",
     "Notes/Layer 5/Simple Network Messaging Protocol.md",
     "Notes/Layer 5/Syslog.md",
-    "Images/Pasted image 20250823145120.png",
     "Notes/Layer 5/Network Time Protocol.md",
-    "Images/Pasted image 20250823143330.png",
-    "Notes/Layer 5/Dynamic Host Configuration Protocol.md",
     "Notes/Layer 5/Domain Name System.md",
     "Notes/Layer 3/Routing Fundamentals.md",
     "Notes/Layer 3/IPv4 Addressing.md",
@@ -213,9 +231,6 @@
     "Notes/Layer 1/Physical Cables and Interfaces.md",
     "README.md",
     "Notes/Introduction/Network Devices.md",
-    "Notes/Introduction/Intro to the Command Line Interface.md",
-    "Notes/Layer 3/Dynamic Routing.md",
-    "Notes/Layer 4/TCP and UDP.md",
-    "Notes/Layer 3/First Hop Redundancy Protocols.md"
+    "Notes/Introduction/Intro to the Command Line Interface.md"
   ]
 }
